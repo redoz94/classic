@@ -17,3 +17,17 @@ body {
 .card-title {
   margin-top: 10px;
 }
+
+.button {
+  margin-top: 70px;
+  position: absolute;
+}
+
+#button {
+  margin-top: 50px;
+  position: absolute;
+}
+
+.butta {
+  margin-top: -50px;
+}
